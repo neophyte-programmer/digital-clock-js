@@ -5,7 +5,7 @@ This page displays the current time of the day and a background image which comp
 - I figured out how to write cleaner if statements
 - I learnt a new css property, `-webkit-box-reflect`
 - I jogged my memory on APIs
-- I learnt 2 new Javascript functions, `setTimeout()` and `setInterval()`
+- I learnt 2 new similar Javascript functions, `setTimeout()` and `setInterval()` and how they differ
 
 It was a fun project!
 
