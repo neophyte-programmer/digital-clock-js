@@ -8,3 +8,6 @@ This page displays the current time of the day and a background image which comp
 - I learnt 2 new Javascript functions, `setTimeout()` and `setInterval()`
 
 It was a fun project!
+
+## How It Looks
+![](https://github.com/neophyte-programmer/digital-clock-js/blob/main/clock.png?raw=true)
