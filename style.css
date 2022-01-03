@@ -15,6 +15,7 @@ body {
 	justify-content: center;
 	align-items: center;
     background: #060a1f;
+    flex-direction: column;
 }
 
 .container {
@@ -31,7 +32,7 @@ body {
 .time {
     position: relative;
     margin: 0 5px;
-    -webkit-box-reflect: below 10px linear-gradient(transparent, #0004);
+    -webkit-box-reflect: below 10px linear-gradient(transparent, #0008);
 }
 
 .time span {
@@ -53,6 +54,30 @@ body {
     font-size: 0.7rem;
     letter-spacing: 0.2rem;
     font-weight: 500;
+}
+
+footer {
+    background: #0008;
+    padding: 1rem;
+    font-weight: 500;
+    color: #fff;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    text-align: center;
+}
+
+footer span a {
+    margin-left: 5px;
+    text-decoration: none;
+    color: #fff;
+    transition: all ease 300ms;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 1px;
+}
+
+footer span a:hover {
+    color: pink;
 }
 
 
