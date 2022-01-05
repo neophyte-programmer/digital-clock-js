@@ -1,5 +1,5 @@
 # Digital Clock With JS
-This page displays the current time of the day and a background image which complements the time.
+This page displays the current time of the day and a background image which complements the time made using vanilla javascript.
 
 ## Experience
 - I figured out how to write cleaner if statements
